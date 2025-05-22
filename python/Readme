@@ -1,0 +1,8 @@
+The command used to zip is as below
+zip ../myapp1.zip -r * .[^.]*
+
+rbsara@LAPTOP-PG3MARFP:/mnt/c/users/acer/downloads/python$ zip ../myapp1.zip -r * .[^.]*
+  adding: application.py (deflated 60%)
+  adding: cron.yaml (deflated 24%)
+  adding: .ebextensions/ (stored 0%)
+  adding: .ebextensions/00sample_log.config (deflated 53%)
